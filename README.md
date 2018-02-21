@@ -1,2 +1,4 @@
-# MLchipotleStock
-Simple Chipotle Stock Predictor using Python's sklearn
+#This is a machine learning model to predict the stock price of Chipotle, Inc. (CMG)
+
+import pandas as pd 
+
