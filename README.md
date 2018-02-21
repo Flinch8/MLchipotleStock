@@ -5,7 +5,7 @@ I started this project because I'm an investor and I wanted to learn more about 
 Many internet sources were used and will be used. The list of URL's below will be continually updated as sources for the project. 
 
 [This](https://enlight.nyc/stock-market-prediction) site was the main source of learning for this project. 
-Shoutout to Samay Shamdasani for putting together this awesome tutorial 
+Shoutout to Samay Shamdasani for putting together this awesome tutorial! 
 
 
 
