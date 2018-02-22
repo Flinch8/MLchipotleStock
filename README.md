@@ -1,6 +1,6 @@
 This is a machine learning model to predict the stock price of Chipotle, Inc. (CMG) for the next 30 days. 
 
-I started this project because I'm an investor and I wanted to learn more about Machine Learning with python, so it kills two birds with one stone. My eventual goal is to create a more complete model incorporating sentiment analysis and "moat size". I also look forward to comparing this model's performance with python's prophet modeling library. 
+I started this project because I'm an investor and I wanted to learn more about Machine Learning with python, so it kills two birds with one stone. My eventual goal is to create a more complete model incorporating sentiment analysis and "moat size". I also look forward to comparing this model's performance with one built using python's Prophet modeling library. 
 
 One of the biggest insights for me so far is how useful the quandl financial library is for getting stock data. I definitely plan on using it again in the future on other finance projects. 
 
